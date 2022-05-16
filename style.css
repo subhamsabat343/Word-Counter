@@ -1,0 +1,27 @@
+body{
+    padding:0px 100px;
+}
+h1{
+    text-align: center;
+    background-color: #006780;
+    padding:10px;
+    margin:0px;
+    color: aliceblue;
+}
+
+#textbook{
+    width: 99%;
+    border-color:#006780;
+    font-size: 15px;;
+
+}
+
+p{
+    text-align: center;
+    background-color: #006780;
+    font-size: 25px;
+    font-weight: bold;
+    color: aliceblue;
+    padding:10px;
+    margin:0px;
+}
